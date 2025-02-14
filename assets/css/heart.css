@@ -56,7 +56,9 @@ p {
     justify-content: center;
     margin: 50px 0;
     font-size: 20px;
-    padding: 15%;
+    padding-top: 15%;
+    padding-left: 15%;
+    padding-right: 15%;
 }
 
 button {
